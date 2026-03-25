@@ -7,10 +7,7 @@ I'm a 2nd-year MSc student in Computer Engineering from Italy
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,gcp,latex,js,html,css,unreal" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,gcp,latex,js,html,css,unreal,github,vscode,visualstudio" />
   </a>
 </p>
 <!--
