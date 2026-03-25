@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm Azzurra 👋
+I'm a 2nd-year MSc student in Computer Engineering from Italy   
 
+
+    
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,pytorch,gcp,js,html,css,unreal)](https://skillicons.dev)
 <!--
 **AzzurraSuffia/AzzurraSuffia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
